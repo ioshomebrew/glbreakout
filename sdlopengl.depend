@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1339907256 source:c:\users\beecher\cpp\sdlopengl\main.cpp
+	<sdl.h>
+	<sdl_opengl.h>
+	<iostream>
+	"functions.h"
+	"declarations.h"
+
+1339907204 source:c:\users\beecher\cpp\sdlopengl\init.cpp
+	"functions.h"
+	<string>
+	<fstream>
+
+1339907230 c:\users\beecher\cpp\sdlopengl\functions.h
+	<SDL.h>
+	<SDL_opengl.h>
+	<SDL_ttf.h>
+	<gl/glut.h>
+	"declarations.h"
+
+1339907028 source:c:\users\beecher\cpp\sdlopengl\declarations.cpp
+	"declarations.h"
+
+1339907012 c:\users\beecher\cpp\sdlopengl\declarations.h
+	<sdl.h>
+	<sdl_opengl.h>
+	<sdl_ttf.h>
+
+1339604805 source:c:\users\beecher\cpp\sdlopengl\render.cpp
+	<sdl_opengl.h>
+	"functions.h"
+	"declarations.h"
+
+1339907221 source:c:\users\beecher\cpp\sdlopengl\input.cpp
+	<sdl_opengl.h>
+	"functions.h"
+	"declarations.h"
+
+1339808510 source:c:\users\beecher\cpp\sdlopengl\logic.cpp
+	"functions.h"
+
+1339907318 source:c:\users\beecher\cpp\sdlopengl\game.cpp
+	"functions.h"
+	"declarations.h"
+	<sdl.h>
+	<gl/glut.h>
+
+1339807842 source:c:\users\beecher\cpp\sdlopengl\bricks.cpp
+	"declarations.h"
+
+1339808442 source:c:\users\beecher\cpp\sdlopengl\rendering.cpp
+	"functions.h"
+
